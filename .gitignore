@@ -1,0 +1,19 @@
+# --- Jupyter/IDE Files ---
+.ipynb_checkpoints
+*.pyc
+.vscode/
+
+# --- Environment/OS Files ---
+# Python Virtual Environments
+.env
+venv/
+env/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# --- Machine Learning Artifacts ---
+# Exclude saved models or large output files
+*.pkl
+*.joblib
