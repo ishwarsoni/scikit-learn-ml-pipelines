@@ -23,7 +23,7 @@ This project showcases the following essential ML engineering techniques:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/ishwarsoni/scikit-learn-ml-pipelines.git
     cd scikit-learn-ml-pipelines
     ```
 2.  **Install dependencies:**
